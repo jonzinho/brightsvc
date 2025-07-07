@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/jonzinho/brightsvc/releases/download/v1.0.0/brightsvc.exe",
+  "version": "1.0.1",
+  "download_url": "https://github.com/jonzinho/brightsvc/releases/download/v1.0.1/brightsvc.exe",
   "changelog": [
-    "Logging desabilitado"
+    "Detecção dentro de jogos corrigida."
   ],
   "file_type": "exe"
 }
