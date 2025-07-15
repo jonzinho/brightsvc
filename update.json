@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/jonzinho/brightsvc/releases/download/v1.0.4/brightsvc.exe",
+  "version": "1.0.5",
+  "download_url": "https://github.com/jonzinho/brightsvc/releases/download/v1.0.5/brightsvc.exe",
   "changelog": [
     "Detecção dentro de jogos corrigida."
   ],
