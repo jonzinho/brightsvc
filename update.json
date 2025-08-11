@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/jonzinho/brightsvc/releases/download/v1.0.6/brightsvc.exe",
+  "version": "1.0.7",
+  "download_url": "https://github.com/jonzinho/brightsvc/releases/download/v1.0.7/brightsvc.exe",
   "changelog": [
-    "Executável reformulado (rework)."
+    "Hotfix após rework."
   ],
   "file_type": "exe"
 }
